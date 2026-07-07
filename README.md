@@ -21,7 +21,7 @@ A simple and interactive web application designed to help students organize thei
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/student-to-do-app.git
+   git clone https://github.com/Lakshmi-14082005/Student_To_Do_app.git
 Navigate to the project folder:
 
 bash
