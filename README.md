@@ -9,7 +9,6 @@ A simple and interactive web application designed to help students organize thei
 - ✅ Mark tasks as completed
 - 🗑️ Delete tasks when no longer needed
 - 🎨 Clean and responsive UI
-- 💾 Local storage support (tasks remain saved even after refreshing)
 
 ---
 
@@ -60,6 +59,8 @@ JavaScript (ES6) for interactivity
 📜 License
 This project is licensed under the MIT License.
 ---
+** Interaction with website**
+https://lakshmi-14082005.github.io/Student_To_Do_app/
 
 [Watch the preview https://github.com/user-attachments/assets/9f8c8774-0cc1-4576-9301-ec67484f8ee4 ]
 
